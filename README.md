@@ -1,7 +1,7 @@
 # Cooking-Assistant
 [Web Apps]
 ## Tentang Cooking Assistant
-Cooking Assistant adalah toko online dari [Medina Catering]() yang menyediakan produk-produk untuk mempermudah kegiatan memasak dirumah. Bersama Cooking Assistant, memasak menjadi mudah seperti memiliki asisten pribadi. 
+Cooking Assistant adalah toko online dari [Mulki Catering]() yang menyediakan produk-produk untuk mempermudah kegiatan memasak dirumah. Bersama Cooking Assistant, memasak menjadi mudah seperti memiliki asisten pribadi. 
 
 Produk kami terdiri dari makanan siap saji, makanan berbumbu siap masak, bumbu racik siap pakai, sampai bahan masakan segar. Setiap produk Cooking Assistant dibuat dari bahan segar dan berkualitas yang bebas dari bahan pengawet dan MSG. 
 
